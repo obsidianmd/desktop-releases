@@ -2155,5 +2155,12 @@
         "description": "Configure various CodeMirror options such as text selection behavior and syntax highlighting",
         "repo": "nothingislost/obsidian-codemirror-options",
         "branch": "main"
+    },
+    {
+        "id": "obsidian-changecase-plugin",
+        "name": "Change Case",
+        "description": "Change strings to different case formats (camelCase, Title Case, snake_case, dash-case, and much more.",
+        "author": "Willie Johnson",
+        "repo": "LiwaTec-Software-Company/obsidian-changecase-plugin"
     }
 ]
