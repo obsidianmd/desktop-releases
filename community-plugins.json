@@ -2368,5 +2368,12 @@
         "description": "Capture musical tab notation in your Obsidian vault. Chords become clickable links to modal images (provided by scales-chords.com)",
         "author": "egradman",
         "repo": "egradman/scales-chords"
+    },
+    {
+        "id": "obsidian-read-it-later",
+        "name": "Obsidian ReadItLater",
+        "description": "Collect interesting information from you clipboard into your vault. A website will be converted to MD, Tweets and Youtube Videos embedded, plain text will just saved into a new notice.",
+        "author": "Dominik Pieper",
+        "repo": "DominikPieper/obsidian-ReadItLater"
     }
 ]
