@@ -2369,4 +2369,11 @@
         "author": "egradman",
         "repo": "egradman/scales-chords"
     }
+        {
+        "id": "obsidian-superscript",
+        "name": "Obsidian Superscript",
+        "description": "Adds a superscript format with a simple shortcut.",
+        "author": "oliviodare",
+        "repo": "oliviodare/obsidian-superscript"
+    }
 ]
