@@ -13749,7 +13749,7 @@
     "repo": "alythobani/obsidian-callout-toggles"
   },
   {
-    "id": "bibdesk-integration",
+    "id": "bibdesk-integration", 
     "name": "BibDesk Integration",
     "description": "Allows using BibTex citations and opening attached PDFs from a BibDesk library.",
     "author": "Andrea Alberti",
