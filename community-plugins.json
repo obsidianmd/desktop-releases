@@ -13748,13 +13748,6 @@
     "repo": "alythobani/obsidian-callout-toggles"
   },
   {
-    "id": "task-board",
-    "name": "Task Board",
-    "author": "Atmanand Gauns",
-    "description": "Manage all your tasks throghout your vault from a single board and much more...",
-    "repo": "tu2-atmanand/Task-Board"
-  },
-  {
     "id": "copy-image-text",
     "name": "复制图文 (Copy Image Text)",
     "author": "msgk",
@@ -13907,5 +13900,12 @@
     "author": "Wang Guoshi",
     "description": "Generate Anki flashcards in multiple ways.",
     "repo": "Lio5n/blue-star"
+  },
+  {
+    "id": "task-board",
+    "name": "Task Board",
+    "author": "Atmanand Gauns",
+    "description": "Manage all your tasks throghout your vault from a single board and much more...",
+    "repo": "tu2-atmanand/Task-Board"
   }
 ]
