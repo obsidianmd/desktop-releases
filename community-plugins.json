@@ -14077,10 +14077,24 @@
     "repo": "seth10/beautiful-obsidian-contacts"
   },
   {
+    "id": "automatic-renumbering",
+    "name": "Automatic Renumbering",
+    "author": "Omri Levi",
+    "description": "Updates numbered lists automatically to keep them in sequential order. Features live updates, smart pasting, and manual control options.",
+    "repo": "OmriLeviGit/Automatic-Renumbering-Obsidian"
+  },
+  {
     "id": "blaze-jump",
     "name": "BlazeJump",
     "author": "henryco",
     "description": "Navigate through text at blazing speed.",
     "repo": "henryco/BlazeJump-Obsidian"
+  },
+  {
+    "id": "obsi-ai",
+    "name": "ObsiAI",
+    "author": "Tharushka Dinujaya",
+    "description": "A powerful AI assistant powered by Google's Gemini AI, featuring a modern floating chat interface inspired by Notion AI.",
+    "repo": "tharushkadinujaya05/ObsiAI"
   }
 ]
