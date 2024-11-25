@@ -14231,7 +14231,7 @@
    "repo": "prashanthpulisetti/password-audit"
   },
 {
-  "id": "obsidian-varinote",
+  "id": "varinote",
   "name": "Varinote",
   "author": "Giorgos Sarigiannidis",
   "description": "Add variables in Templates and set their values on-the-fly during the Note creation.",
