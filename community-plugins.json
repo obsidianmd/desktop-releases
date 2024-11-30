@@ -14369,6 +14369,13 @@
 		"author": "Yunfi",
 		"description": "Upload images in a note, and remove the images from the vault if they're exclusively used within that note.",
 		"repo": "yy4382/obsidian-image-upload"
+  },
+  {
+    "id": "vault-nickname",
+    "name": "Vault Nickname",
+    "author": "@rscopic",
+    "description": "Override the vault's display name. Intended to disambiguate vaults with the same folder name when adhering to a common folder structure between projects.",
+    "repo": "rscopic/obsidian-vault-nickname"
   }
 ]
 
