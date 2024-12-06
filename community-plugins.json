@@ -14369,6 +14369,13 @@
 		"author": "Yunfi",
 		"description": "Upload images in a note, and remove the images from the vault if they're exclusively used within that note.",
 		"repo": "yy4382/obsidian-image-upload"
-  }
+  },
+    {
+        "id": "link-opening-restore",
+        "name": "Link Opening Restore",
+        "author": "SmallZombie",
+        "description": "Restore the link opening method to Ctrl + Left Click.",
+        "repo": "SmallZombie/link-opening-restore"
+    }
 ]
 
