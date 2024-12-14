@@ -14558,6 +14558,13 @@
         "author": "Ruslan Zabarov",
         "description": "Converts units right in your Markdown files.",
         "repo": "ruszabarov/obsidian-unit-converter"
+    },
+    {
+        "id": "image-picker",
+        "name": "Image Picker",
+        "author": "ari.the.elk",
+        "description": "A blazingly fast way to browse, search, and embed pictures across your vault",
+        "repo": "AriTheElk/obsidian-image-picker"
     }
 ]
 
