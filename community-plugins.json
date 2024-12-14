@@ -14558,6 +14558,13 @@
         "author": "Ruslan Zabarov",
         "description": "Converts units right in your Markdown files.",
         "repo": "ruszabarov/obsidian-unit-converter"
+    },
+    {
+        "id": "kikijiki-habit-tracker",
+        "name": "Kikijiki Habit Tracker",
+        "author": "KIKIJIKI",
+        "description": "A simple habit tracker",
+        "repo": "kikijiki/obsidian-habit-tracker"
     }
 ]
 
