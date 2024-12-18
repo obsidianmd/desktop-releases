@@ -14572,6 +14572,13 @@
       "author": "Sergei Kosivchenko",
       "description": "Define dynamic input form and use it to create notes",
       "repo": "ArhiChief/obsidian-note-from-form"
-  }
-]
+  },
+    {
 
+        "id": "better-checklist",
+        "name": "Better Checklist",
+        "author": "Richard Glen Domingo",
+        "description": "Combines checklists across pages into the sidebar with configurable filters.",
+        "repo": "chardskarth/obsidian-better-checklist"
+    }
+]
