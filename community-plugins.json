@@ -14637,10 +14637,10 @@
     "repo": "wenlzhang/obsidian-link-maintainer"
   },
   {
-     "id": "net-clip",
-     "name": "NetClip",
-     "author": "Elhary",
-     "description": "Clip, save, search, and browse web pages",
-     "repo": "Elhary/Obsidian-NetClip"
+    "id": "net-clip",
+    "name": "NetClip",
+    "author": "Elhary",
+    "description": "Clip, save, search, and browse web pages",
+    "repo": "Elhary/Obsidian-NetClip"
   }
 ]
