@@ -14635,8 +14635,7 @@
     "author": "wenlzhang",
     "description": "Maintain note links when splitting or reorganizing notes.",
     "repo": "wenlzhang/obsidian-link-maintainer"
-  }
-	[
+  },
     {
         "id": "nldates-obsidian",
         "name": "Natural Language Dates",
@@ -29280,5 +29279,5 @@
     "author": "ubuntupunk",
     "description": "Simple daily quotes.",
     "repo": "ubuntupunk/obsidian-xenquotes"	
-},
+}
 ]
