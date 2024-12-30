@@ -14635,5 +14635,12 @@
     "author": "wenlzhang",
     "description": "Maintain note links when splitting or reorganizing notes.",
     "repo": "wenlzhang/obsidian-link-maintainer"
+  },
+  {
+    "id": "chronotyper",
+    "name": "Chronotyper",
+    "description": "Track how long you edit notes directly in the note properties",
+    "author": "BambusControl",
+    "repo": "BambusControl/obsidian-chronotyper"
   }
 ]
