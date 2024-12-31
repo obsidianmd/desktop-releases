@@ -14643,6 +14643,7 @@
     "description": "Clip, save, search, and browse web pages",
     "repo": "Elhary/Obsidian-NetClip"
   },
+  {
     "id": "export-to-html",
     "name": "Export to HTML",
     "author": "kalvn",
