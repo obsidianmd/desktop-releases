@@ -14698,6 +14698,13 @@
     "author": "Victor Perez-Cano",
     "description": "Enhance your internal links management with dynamic alias customization. Display short, full, or combined titles for your notes effortlessly.",
     "repo": "vpcano/obsidian-smart-link-alias"
+  },
+  {
+    "id": "periodic-notes-calendar",
+    "name": "Periodic notes calendar",
+    "author": "Luis Cadillo",
+    "description": "Organize periodic notes from daily to yearly with a calendar interface. Navigate and summarize entries using stickers in the calendar view.",
+    "repo": "luiisca/obsidian-periodic-notes-calendar"
   }
 ]
 
