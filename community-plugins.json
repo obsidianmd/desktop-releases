@@ -14712,6 +14712,12 @@
     "author": "Skye",
     "description": "Keep Vault synchronized with the NAS on your home intranet.",
     "repo": "skye-z/ons"
+  },
+  {
+    "id": "hanzi-writer",
+    "name": "Hanzi Writer",
+    "author": "Nikita Smirnov",
+    "description": "Interactive Chinese character writing blocks using Hanzi Writer",
+    "repo": "pakrentos/hanzi-writer-obsidian"
   }
 ]
-
