@@ -14707,6 +14707,13 @@
     "repo": "kbwo/obsidian-click-hint"
   },
   {
+    "id": "ons",
+    "name": "BetaX NAS Sync",
+    "author": "Skye",
+    "description": "Keep Vault synchronized with the NAS on your home intranet.",
+    "repo": "skye-z/ons"
+  },
+  {
     "id": "hanzi-writer",
     "name": "Hanzi Writer",
     "author": "Nikita Smirnov",
