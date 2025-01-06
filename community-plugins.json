@@ -14705,6 +14705,13 @@
     "author": "kbwo",
     "description": "Provide keyboard-driven hints for clickable elements.",
     "repo": "kbwo/obsidian-click-hint"
+  },
+  {
+    "id": "infio-copilot",
+    "name": "Infio Copilot",
+    "author": "duanfuxiang0",
+    "description": "A Cursor-inspired AI assistant for notes that offers smart autocomplete and interactive chat with your selected notes",
+    "repo": "infiolab/infio-copilot"
   }
 ]
 
