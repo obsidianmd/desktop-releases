@@ -14740,6 +14740,13 @@
     "author": "Amplia",
     "description": "Update and creating of Jira issues directly",
     "repo": "angelperezasenjo/obsidian-to-jira"
+  },
+  {
+    "id": "media-link-to-html",
+    "name": "Media Link to HTML",
+    "author": "C.Y. Park",
+    "description": "Converts media links to HTML elements.",
+    "repo": "cypar/obsidian-media-link-to-html"
   }
 ]
 
