@@ -14782,6 +14782,13 @@
     "author": "zero",
     "description": "打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。",
     "repo": "0011000000110010/obsidian-manager"
+  },
+  {
+    "id": "media-companion",
+    "name": "Media Companion",
+    "author": "Nick de Bruin",
+    "description": "Creates a searchable gallery and sidecar files for attachments such as images and videos. The sidecar files allow you to add notes and tags to your media files.",
+    "repo": "Nick-de-Bruin/obsidian-media-companion"
   }
 ]
 
