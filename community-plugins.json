@@ -14784,10 +14784,10 @@
     "repo": "0011000000110010/obsidian-manager"
   },
   {
-    "id": "obsidian-mediaviewer",
+    "id": "mediaviewer",
     "name": "Media Viewer",
     "author": "Devon22",
-    "description": "A media viewer plugin for Obsidian, allowing you to view and manage media files within your notes.",
+    "description": "A media viewer plugin, allowing you to view and manage media files within your notes.",
     "repo": "Devon22/obsidian-mediaviewer"
   }
 ]
