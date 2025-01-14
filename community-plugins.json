@@ -14784,11 +14784,11 @@
     "repo": "0011000000110010/obsidian-manager"
   },
   {
-    "id": "obsidian-memodack-plugin",
+    "id": "memodack",
     "name": "Memodack",
     "author": "Pavlo Kobyliatskyi",
     "description": "This plugin will help you to be better in other languages",
-    "repo": "pavlokobyliatskyi/obsidian-memodack-plugin"
+    "repo": "pavlokobyliatskyi/memodack-obsidian-plugin"
   }
 ]
 
