@@ -14630,7 +14630,7 @@
     "repo": "wenlzhang/obsidian-link-maintainer"
   },
   {
-    "id": "export-to-html",
+  "id": "export-to-html",
     "name": "Export to HTML",
     "author": "kalvn",
     "description": "Export your Markdown notes as HTML, directly in the clipboard or as a file.",
@@ -14691,8 +14691,8 @@
     "author": "Victor Perez-Cano",
     "description": "Enhance your internal links management with dynamic alias customization. Display short, full, or combined titles for your notes effortlessly.",
     "repo": "vpcano/obsidian-smart-link-alias"
-    },
-    {
+  },
+  {
     "id": "replicate",
     "name": "Replicate",
     "author": "Sébastien Dubois",
@@ -14782,6 +14782,12 @@
     "author": "zero",
     "description": "打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。",
     "repo": "0011000000110010/obsidian-manager"
+  },
+  {
+   "id": "varinote",
+   "name": "Varinote",
+   "author": "Giorgos Sarigiannidis",
+   "description": "Add variables in templates and set their values on-the-fly during the note creation.",
+   "repo": "gsarig/obsidian-varinote"
   }
 ]
-
