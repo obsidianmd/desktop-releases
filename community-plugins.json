@@ -14782,6 +14782,13 @@
     "author": "zero",
     "description": "打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。",
     "repo": "0011000000110010/obsidian-manager"
+  },
+  {
+    "id": "whisperer",
+    "name": "WHISPERER.md",
+    "author": "Falcion",
+    "description": "Play ambience in your vault, assign audio to files through metadata with support of local (from vault) and URLs (Youtube, Soundcloud) versions of audio: works on mobile vaults.",
+    "repo": "Falcion/Whisperer.md"
   }
 ]
 
