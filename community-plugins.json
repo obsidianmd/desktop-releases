@@ -14454,14 +14454,14 @@
     "description": "Insert a new line above or below the current line.",
     "repo": "freddyouellette/obsidian-insert-new-line-plugin"
   },
-	{
+  {
     "id": "cypher",
     "name": "Cypher",
     "author": "Atharva Wankhede",
     "description": "Hides text in a simple diagrammatic cypher to make reading unrecognizable for viewers.",
     "repo": "aths7/cypher"
   },
-{
+  {
 	"id": "calloutx",
 	"name": "CalloutX",
 	"author": "br4in",
@@ -14796,6 +14796,41 @@
     "author": "goev",
     "description": "Sync ai-enhanced flashcards with Anki via AnkiConnect",
     "repo": "jannusgoe/obsidian-ankisync"
+  },
+  {
+    "id": "dynamic-outline",
+    "name": "Dynamic Outline",
+    "author": "theopavlove",
+    "description": "Adds a customizable GitHub-like floating table of contents.",
+    "repo": "theopavlove/obsidian-dynamic-outline"
+  },
+  {
+    "id": "syncthing-status-icon",
+    "name": "Syncthing status icon",
+    "author": "Diego Viero",
+    "description": "Displas a status icon inside the status bar showing whether syncthing is running locally or not.",
+    "repo": "Diego-Viero/Syncthing-status-icon-Obsidian-plugin"
+  },
+  {
+    "id": "simple-disguise",
+    "name": "Simple Disguise",
+    "author": "slow-groovin",
+    "description": "disguise/obscure/hide the markdown content in a very simple way.",
+    "repo": "slow-groovin/simple-disguise"
+  },
+  {
+	"id": "koreader-highlights-importer",
+	"name": "KoReader Highlight Importer",
+	"author": "Tahsin Kocaman",
+	"description": "Imports highlights and metadata from KoReader",
+	"repo": "t5k6/obsidian-koreader-highlights"
+  },
+  {
+    "id": "local-any-files",
+    "name": "Local Any Files",
+    "author": "ShermanTsang",
+    "description": "Extract and download any external files from links to local files",
+    "repo": "ShermanTsang/obsidian-local-any-files"
   },
   {
     "id": "yt-video-summarizer",
