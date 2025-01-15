@@ -14813,25 +14813,32 @@
     "repo": "Diego-Viero/Syncthing-status-icon-Obsidian-plugin"
   },
   {
-        "id": "net-clip",
-        "name": "NetClip",
-        "author": "Elhary",
-        "description": "Clip, save, search, and browse web pages",
-        "repo": "Elhary/Obsidian-NetClip"
-    },
-    {
-        "id": "simple-disguise",
-        "name": "Simple Disguise",
-        "author": "slow-groovin",
-        "description": "disguise/obscure/hide the markdown content in a very simple way.",
-        "repo": "slow-groovin/simple-disguise"
-    },
-    {
-        "id": "koreader-highlights-importer",
-        "name": "KoReader Highlight Importer",
-        "author": "Tahsin Kocaman",
-        "description": "Imports highlights and metadata from KoReader",
-        "repo": "t5k6/obsidian-koreader-highlights"
-    }
+     "id": "net-clip",
+     "name": "NetClip",
+     "author": "Elhary",
+     "description": "Clip, save, search, and browse web pages",
+     "repo": "Elhary/Obsidian-NetClip"
+   },
+   {
+    "id": "simple-disguise",
+    "name": "Simple Disguise",
+    "author": "slow-groovin",
+    "description": "disguise/obscure/hide the markdown content in a very simple way.",
+    "repo": "slow-groovin/simple-disguise"
+  },
+  {
+	"id": "koreader-highlights-importer",
+	"name": "KoReader Highlight Importer",
+	"author": "Tahsin Kocaman",
+	"description": "Imports highlights and metadata from KoReader",
+	"repo": "t5k6/obsidian-koreader-highlights"
+  },
+  {
+    "id": "local-any-files",
+    "name": "Local Any Files",
+    "author": "ShermanTsang",
+    "description": "Extract and download any external files from links to local files",
+    "repo": "ShermanTsang/obsidian-local-any-files"
+  }
 
 ]
