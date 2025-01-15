@@ -14812,13 +14812,6 @@
     "description": "Displas a status icon inside the status bar showing whether syncthing is running locally or not.",
     "repo": "Diego-Viero/Syncthing-status-icon-Obsidian-plugin"
   },
-  {
-     "id": "net-clip",
-     "name": "NetClip",
-     "author": "Elhary",
-     "description": "Clip, save, search, and browse web pages",
-     "repo": "Elhary/Obsidian-NetClip"
-   },
    {
     "id": "simple-disguise",
     "name": "Simple Disguise",
@@ -14839,6 +14832,12 @@
     "author": "ShermanTsang",
     "description": "Extract and download any external files from links to local files",
     "repo": "ShermanTsang/obsidian-local-any-files"
-  }
-
+  },
+  {
+     "id": "net-clip",
+     "name": "NetClip",
+     "author": "Elhary",
+     "description": "Clip, save, search, and browse web pages",
+     "repo": "Elhary/Obsidian-NetClip"
+   }
 ]
