@@ -14454,14 +14454,14 @@
     "description": "Insert a new line above or below the current line.",
     "repo": "freddyouellette/obsidian-insert-new-line-plugin"
   },
-	{
+  {
     "id": "cypher",
     "name": "Cypher",
     "author": "Atharva Wankhede",
     "description": "Hides text in a simple diagrammatic cypher to make reading unrecognizable for viewers.",
     "repo": "aths7/cypher"
   },
-{
+  {
 	"id": "calloutx",
 	"name": "CalloutX",
 	"author": "br4in",
@@ -14813,11 +14813,25 @@
     "repo": "Diego-Viero/Syncthing-status-icon-Obsidian-plugin"
   },
   {
-    "id": "net-clip",
-    "name": "NetClip",
-    "author": "Elhary",
-    "description": "Clip, save, search, and browse web pages",
-    "repo": "Elhary/Obsidian-NetClip"
-  }
+        "id": "net-clip",
+        "name": "NetClip",
+        "author": "Elhary",
+        "description": "Clip, save, search, and browse web pages",
+        "repo": "Elhary/Obsidian-NetClip"
+    },
+    {
+        "id": "simple-disguise",
+        "name": "Simple Disguise",
+        "author": "slow-groovin",
+        "description": "disguise/obscure/hide the markdown content in a very simple way.",
+        "repo": "slow-groovin/simple-disguise"
+    },
+    {
+        "id": "koreader-highlights-importer",
+        "name": "KoReader Highlight Importer",
+        "author": "Tahsin Kocaman",
+        "description": "Imports highlights and metadata from KoReader",
+        "repo": "t5k6/obsidian-koreader-highlights"
+    }
 
 ]
