@@ -14850,7 +14850,7 @@
     "id": "cao",
     "name": "CAO",
     "author": "Godot",
-    "description": "Claude AI for Obsidian.",
+    "description": "Integrate Claude AI for chatting in notes.",
     "repo": "iamgodot/CAO"
 }
 ]
