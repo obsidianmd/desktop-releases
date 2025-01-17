@@ -14894,5 +14894,12 @@
     "author": "Hwenyi",
     "description": "Convert pinyin to Chinese and LaTeX",
     "repo": "Hwenyi/obsidian-type-chinese-like-english"
-  }
+  },
+{
+    "id": "alinti",
+    "name": "Durum Çubuğu Alıntıları",
+    "author": "Mehmet Keçeci",
+    "description": "Günlük Alıntıları Durum Çubuğunda Göster",
+    "repo": "WhiteSymmetry/alinti"
+}
 ]
