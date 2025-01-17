@@ -14831,19 +14831,27 @@
     "author": "ShermanTsang",
     "description": "Extract and download any external files from links to local files",
     "repo": "ShermanTsang/obsidian-local-any-files"
-},
-{
+  },
+  {
     "id": "publish-to-discourse",
     "name": "Publish to Discourse",
     "author": "woodchen",
     "description": "Post notes to the Discourse forum.",
     "repo": "woodchen-ink/obsidian-publish-to-discourse"
-},
-{
+  },
+  {
     "id": "moredraw",
     "name": "MoreDraw",
     "author": "webceoboy2011",
     "description": "A infinite canvas whiteboard with ai to draw flowchart ,mind map and other diagram.",
     "repo": "webceoboy/moredraw-obsidian"
-  }
-]
+   },
+   {
+    "id": "hide-it",
+    "name": "Hide It",
+    "author": "Valac",
+    "description": "Hides the visual clutter of tabs.",
+    "repo": "Valac-Design/Hide-It"
+   }
+   ]
+
