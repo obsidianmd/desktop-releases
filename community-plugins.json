@@ -14978,6 +14978,13 @@
     "author": "Mihail Kovachev",
     "description": "Render chess positions.",
     "repo": "MihailKovachev/shaahmaat-md"
+  },
+  {
+    "id": "minote-sync",
+    "name": "Minote Sync",
+    "author": "Emac Shen",
+    "description": "Sync Minote(小米笔记) into your vault.",
+    "repo": "emac/obsidian-minote-plugin"
   }
 ]
 
