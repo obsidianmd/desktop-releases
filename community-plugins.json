@@ -14908,5 +14908,12 @@
     "author": "Amin Sennour",
     "description": "Change the default filename used for new notes",
     "repo": "TheLoneWanderer4/obsidian-uuid-title"
+  },
+  {
+    "id": "age-encrypt",
+    "name": "Age Encrypt",
+    "author": "Metin Ur",
+    "description": "Secure content encryption using age encryption library",
+    "repo": "Mr-1311/obsidian-age-encrypt"
   }
 ]
