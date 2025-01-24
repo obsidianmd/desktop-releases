@@ -14908,5 +14908,12 @@
     "author": "Amin Sennour",
     "description": "Change the default filename used for new notes",
     "repo": "TheLoneWanderer4/obsidian-uuid-title"
+  },
+  {
+     "id": "better-daily-notes",
+     "name": "Better Daily Notes",
+     "author": "duchangkim",
+     "description": "Automatically organizes your daily notes into customizable folder structures (Year/Month/Week) for better organization and easier navigation",
+     "repo": "duchangkim/better-daily-notes"
   }
 ]
