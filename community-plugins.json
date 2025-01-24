@@ -14908,5 +14908,12 @@
     "author": "Amin Sennour",
     "description": "Change the default filename used for new notes",
     "repo": "TheLoneWanderer4/obsidian-uuid-title"
+  },
+  {
+    "id": "codeless-heatmap-calendar",
+    "name": "Codeless Heatmap Calendar",
+    "author": "Behnam Aghajani",
+    "description": "Fully-featured activity visualizer powered by Toggl data and more.",
+    "repo": "webtechaccess/obsidian-heatmap-calendar"
   }
 ]
