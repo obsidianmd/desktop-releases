@@ -14957,6 +14957,13 @@
     "author": "Ezben",
     "description": "Visualize daily word count with a heatmap.",
     "repo": "benjaminezequiel/keep-the-rhythm"
+  },
+  {
+    "id": "info-scraper",
+    "name": "Info scraper",
+    "author": "DDnim",
+    "description": "Search and save web content using Exa Search API directly",
+    "repo": "DDnim/obsidian-info-scraper"
   }
 ]
 
