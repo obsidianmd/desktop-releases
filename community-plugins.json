@@ -14908,5 +14908,12 @@
     "author": "Amin Sennour",
     "description": "Change the default filename used for new notes",
     "repo": "TheLoneWanderer4/obsidian-uuid-title"
-  }
+  },
+  {
+    "id": "content-cards",
+    "name": "Content Cards",
+    "author": "leo",
+    "description": "允许您在 Markdown 中插入各种内容卡片，包括时间轴，高亮块，指标卡片，图书卡片，音乐卡片，电影卡片，照片专辑，名片，内容分栏，倒计时等。",
+    "repo": "liqms/obsidian-content-cards"
+  } 
 ]
