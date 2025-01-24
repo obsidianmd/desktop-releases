@@ -14908,5 +14908,12 @@
     "author": "Amin Sennour",
     "description": "Change the default filename used for new notes",
     "repo": "TheLoneWanderer4/obsidian-uuid-title"
+  },
+  {
+    "id": "wewrite",
+    "name": "WeWrite",
+    "author": "Learner Chen",
+    "description": "AI assisting writing, Rendering and publishing notes to WeChat MP platform",
+    "repo": "learnerchen-forever/wewrite"
   }
 ]
