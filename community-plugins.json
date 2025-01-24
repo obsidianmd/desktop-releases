@@ -14978,6 +14978,13 @@
     "author": "Mihail Kovachev",
     "description": "Render chess positions.",
     "repo": "MihailKovachev/shaahmaat-md"
+  },
+  {
+    "id": "papyrus",
+    "name": "Papyrus",
+    "author": "André Silva, Daniel Guerra, Diogo Ferreira, Eduardo Barrancos",
+    "description": "The most amazing documentation assistant",
+    "repo": "Papyrus-doc-ai/papyrus-obsidian"
   }
 ]
 
