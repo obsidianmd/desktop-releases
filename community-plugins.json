@@ -14978,6 +14978,13 @@
     "author": "Mihail Kovachev",
     "description": "Render chess positions.",
     "repo": "MihailKovachev/shaahmaat-md"
-  }
+  },
+  {
+    "id": "every-day-calendar",
+    "name": "Every Day Calendar",
+    "author": "QuBe",
+    "description": "Create calendars inspired by Simone Giertz's Every Day Calendar",
+    "repo": "Sporarum/every-day-calendar"
+  },
 ]
 
