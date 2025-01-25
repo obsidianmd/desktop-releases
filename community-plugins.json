@@ -14777,13 +14777,6 @@
     "repo": "0011000000110010/obsidian-manager"
   },
   {
-    "id": "data-files-editor",
-    "name": "Data Files Editor",
-    "author": "ZukTol",
-    "description": "Create and edit .txt, .json and .xml files.",
-    "repo": "ZukTol/obsidian-data-files-editor"
-  },
-  {
     "id": "bujo-bullets",
     "name": "BuJo Bullets",
     "author": "Will Olson",
@@ -14985,6 +14978,13 @@
     "author": "Mihail Kovachev",
     "description": "Render chess positions.",
     "repo": "MihailKovachev/shaahmaat-md"
+  },
+  {
+    "id": "data-files-editor",
+    "name": "Data Files Editor",
+    "author": "ZukTol",
+    "description": "Create and edit .txt, .json and .xml files.",
+    "repo": "ZukTol/obsidian-data-files-editor"
   }
 ]
 
