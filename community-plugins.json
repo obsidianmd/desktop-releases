@@ -14978,6 +14978,13 @@
     "author": "Mihail Kovachev",
     "description": "Render chess positions.",
     "repo": "MihailKovachev/shaahmaat-md"
+  },
+  {
+    "id": "e-upload",
+    "name": "EUpload",
+    "author": "Appleex",
+    "description": "Support uploading files on different platforms.",
+    "repo": "Appleec/e-obsidian-upload-plugin"
   }
 ]
 
