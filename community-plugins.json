@@ -14983,7 +14983,7 @@
     "id": "e-upload",
     "name": "EUpload",
     "author": "Appleex",
-    "description": "Support uploading files on different platforms.",
+    "description": "Support uploading files to different platforms.",
     "repo": "Appleec/e-obsidian-upload-plugin"
   }
 ]
