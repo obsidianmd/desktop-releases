@@ -14825,13 +14825,6 @@
     "description": "Extract and download any external files from links to local files",
     "repo": "ShermanTsang/obsidian-local-any-files"
   },
-  {
-    "id": "yt-video-summarizer",
-    "name": "YouTube Video Summarizer",
-    "author": "mbramani",
-    "description": "Summarize YouTube videos using Gemini AI. Extract transcripts, generate summaries, and create structured notes.",
-    "repo": "mbramani/obsidian-yt-video-summarizer"
-},
 {
     "id": "publish-to-discourse",
     "name": "Publish to Discourse",
@@ -14985,6 +14978,13 @@
     "author": "Mihail Kovachev",
     "description": "Render chess positions.",
     "repo": "MihailKovachev/shaahmaat-md"
-  }
+  },
+{
+    "id": "yt-video-summarizer",
+    "name": "YouTube Video Summarizer",
+    "author": "mbramani",
+    "description": "Summarize YouTube videos using Gemini AI. Extract transcripts, generate summaries, and create structured notes.",
+    "repo": "mbramani/obsidian-yt-video-summarizer"
+}
 ]
 
