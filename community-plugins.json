@@ -14468,13 +14468,6 @@
     "description": "将笔记同步到博客园",
     "repo": "lei-ctyh/obsidian-sync-cnblog"
 	},
-	{
-		"id": "flowcharts",
-		"name": "Flowcharts",
-		"author": "land0r",
-		"description": "Render flowcharts using flowchart.js markup.",
-		"repo": "land0r/obsidian-flowchart-plugin"
-	},
 {
     "id": "exmemo-tools",
     "name": "ExMemo Tools",
@@ -14985,6 +14978,13 @@
     "author": "Mihail Kovachev",
     "description": "Render chess positions.",
     "repo": "MihailKovachev/shaahmaat-md"
+  },
+  {
+    "id": "flowcharts",
+    "name": "Flowcharts",
+    "author": "land0r",
+    "description": "Render flowcharts using flowchart.js markup.",
+    "repo": "land0r/obsidian-flowchart-plugin"
   }
 ]
 
