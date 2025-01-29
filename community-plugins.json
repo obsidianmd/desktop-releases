@@ -14678,7 +14678,7 @@
     "description": "Allows to insert multiple attachments at a time.",
     "repo": "mnaoumov/obsidian-insert-multiple-attachments"
    },
-	{
+   {
     "id": "smart-link-alias",
     "name": "Smart Link Alias",
     "author": "Victor Perez-Cano",
@@ -14987,4 +14987,3 @@
     "repo": "Mara-Li/obsidian-symbol-linking"
   }
 ]
-
