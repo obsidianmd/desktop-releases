@@ -15050,6 +15050,13 @@
     "repo": "GizmoRay/obsidian-goal-tracker"  
   },
   {
+   "id": "new-file-name",
+   "name": "New Filename",
+   "author": "Amin Sennour",
+   "description": "Change the default filename used for new notes",
+   "repo": "TheLoneWanderer4/obsidian-uuid-title"
+ },
+ {
     "id": "inline-checkbox-groups",
     "name": "Inline Checkbox Groups",
     "author": "Bradley Wyatt",
