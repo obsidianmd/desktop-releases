@@ -14910,13 +14910,6 @@
     "repo": "TheLoneWanderer4/obsidian-uuid-title"
   },
   {
-    "id": "reader-mode",
-    "name": "Reader Mode",
-    "author": "Dominik Mayer",
-    "description": "Ensures notes are always opened in reader mode.",
-    "repo": "dominikmayer/obsidian-reader-mode"
-  },
-  {
     "id": "note-annotations",
     "name": "Note Annotations",
     "author": "Jan Beck",
@@ -15055,5 +15048,12 @@
     "author": "Ben Rotholtz",
     "description": "Track your goals with a calendar view",
     "repo": "GizmoRay/obsidian-goal-tracker"  
+  },
+  {
+    "id": "reader-mode",
+    "name": "Reader Mode",
+    "author": "Dominik Mayer",
+    "description": "Ensures notes are always opened in reader mode.",
+    "repo": "dominikmayer/obsidian-reader-mode"
   }
 ]
