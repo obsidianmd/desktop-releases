@@ -15049,6 +15049,7 @@
     "description": "Track your goals with a calendar view",
     "repo": "GizmoRay/obsidian-goal-tracker"  
   },
+  {
     "id": "explorer-colors",
     "name": "Explorer Colors",
     "author": "Scott Van der Zwet",
