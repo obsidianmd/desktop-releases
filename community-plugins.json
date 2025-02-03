@@ -14973,13 +14973,6 @@
    "repo": "gsarig/obsidian-sentinel"
   },
   {
-    "id": "hephaistos-importer",
-    "name": "Hephaistos Importer",
-    "author": "Skallaturi",
-    "description": "Imports main stats from the Starfinder RPG character website Hephaistos.",
-    "repo": "Skallaturi/hephaistos-importer"
-  },
-  {
     "id": "shaahmaat-md",
     "name": "ShaahMaat-md",
     "author": "Mihail Kovachev",
@@ -15055,5 +15048,12 @@
     "author": "Ben Rotholtz",
     "description": "Track your goals with a calendar view",
     "repo": "GizmoRay/obsidian-goal-tracker"
+  }, 
+  {
+    "id": "hephaistos-importer",
+    "name": "Hephaistos Importer",
+    "author": "Skallaturi",
+    "description": "Imports main stats from the Starfinder RPG character website Hephaistos.",
+    "repo": "Skallaturi/hephaistos-importer"
   }
 ]
