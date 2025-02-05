@@ -14979,6 +14979,7 @@
     "description": "Render chess positions.",
     "repo": "MihailKovachev/shaahmaat-md"
   },
+  {
     "id": "anchor-display-text",
     "name": "Anchor Link Display Text",
     "author": "Robert C Arsenault",
@@ -15054,5 +15055,5 @@
     "author": "JoaoEmanuell",
     "description": "Convert the current note for WhatsApp format to share.",
     "repo": "JoaoEmanuell/obsidian-whatsapp-export-note"
-  },
+  }
 ]
