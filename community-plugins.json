@@ -15053,8 +15053,7 @@
     "id": "sqlite-db",
     "name": "Sqlite DB",
     "author": "Stefano Frigerio",
-    "description": "A plugin that allows to interact with sqlite databases in Obsidian",
-    "authorUrl": "https://stefanofrigerio.dev",
+    "description": "A plugin that allows to interact with sqlite databases in your notes",
     "repo": "stfrigerio/sqliteDB"  
   }	
 ]
