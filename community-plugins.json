@@ -15052,7 +15052,7 @@
   {
     "id": "cursor-position-history",
     "name": "Cursor Position History",
-    "author": "Florian Gubler",
+    "author": "Florian Gubler", 
     "description": "Remember the previous positions of the cursor across files: auto-scroll to the correct position in a new file. Navigate backward and forward through your cursor position history without losing context.",
     "repo": "fgubler/obsidian-cursor-position-history"  
   }
